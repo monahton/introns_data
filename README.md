@@ -1,4 +1,4 @@
-Introns dataset from GENCODE release 27 and GENCODE m16
+Introns dataset from GENCODE release 27 and GENCODE M16
 
 This dataset of introns data was used for the paper "Unique features of GC-AG splice junctions revealed by comparison of human and mouse long non-coding and protein-coding genes".
 
